@@ -16,7 +16,7 @@
 
 - 🔭 我目前正在探索各种有趣的大模型，并为它们制作非官方的 API 封装。
 - 🌱 我正在学习更多关于模型微调和 AI 应用部署的知识。
-- 📫 如何联系我: your-email@example.com [<sup>1</sup>](mailto:your-email@example.com)  (请替换成你的邮箱)
+- 📫 如何联系我:  [2864460459@qq.com](mailto:2864460459@qq.com)  (请替换成你的邮箱)
 
 ---
 
@@ -36,11 +36,11 @@
 
 | 项目 | 描述 | 统计 (Stats) |
 |---|---|---|
-|  [**Qwen-2api**](https://github.com/lzA6/Qwen-2api) | 🚀 通义千问大模型非官方API封装 |  [!GitHub Stars](https://img.shields.io/github/stars/lzA6/Qwen-2api?style=flat-square&label=Stars)  [!GitHub Forks](https://img.shields.io/github/forks/lzA6/Qwen-2api?style=flat-square&label=Forks) |
-|  [**Search-2api**](https://github.com/lzA6/Search-2api) | 🔍 结合搜索功能的大模型API |  [!GitHub Stars](https://img.shields.io/github/stars/lzA6/Search-2api?style=flat-square&label=Stars)  [!GitHub Forks](https://img.shields.io/github/forks/lzA6/Search-2api?style=flat-square&label=Forks) |
-|  [**Deepseek-2api**](https://github.com/lzA6/Deepseek-2api) | 🤖 Deepseek 大模型非官方API封装 |  [!GitHub Stars](https://img.shields.io/github/stars/lzA6/Deepseek-2api?style=flat-square&label=Stars) !GitHub Forks [<sup>10</sup>](https://img.shields.io/github/forks/lzA6/Deepseek-2api?style=flat-square&label=Forks) |
-|  [**Ernie-2API**](https://github.com/lzA6/Ernie-2API) | 💡 文心一言大模型非官方API封装 |  [!GitHub Stars](https://img.shields.io/github/stars/lzA6/Ernie-2API?style=flat-square&label=Stars)  [!GitHub Forks](https://img.shields.io/github/forks/lzA6/Ernie-2API?style=flat-square&label=Forks) |
-|  [**xinghuo-2api**](https://github.com/lzA6/xinghuo-2api) | ✨ 星火大模型非官方API封装 |  [!GitHub Stars](https://img.shields.io/github/stars/lzA6/xinghuo-2api?style=flat-square&label=Stars)  [!GitHub Forks](https://img.shields.io/github/forks/lzA6/xinghuo-2api?style=flat-square&label=Forks) |
+|  [**Qwen-2api**](https://github.com/lzA6/Qwen-2api) | 🚀 通义千问大模型非官方API封装 |  [GitHub Stars](https://img.shields.io/github/stars/lzA6/Qwen-2api?style=flat-square&label=Stars)  [GitHub Forks](https://img.shields.io/github/forks/lzA6/Qwen-2api?style=flat-square&label=Forks) |
+|  [**Search-2api**](https://github.com/lzA6/Search-2api) | 🔍 结合搜索功能的大模型API |  [GitHub Stars](https://img.shields.io/github/stars/lzA6/Search-2api?style=flat-square&label=Stars)  [GitHub Forks](https://img.shields.io/github/forks/lzA6/Search-2api?style=flat-square&label=Forks) |
+|  [**Deepseek-2api**](https://github.com/lzA6/Deepseek-2api) | 🤖 Deepseek 大模型非官方API封装 |  [GitHub Stars](https://img.shields.io/github/stars/lzA6/Deepseek-2api?style=flat-square&label=Stars)  [GitHub Forks](https://img.shields.io/github/forks/lzA6/Deepseek-2api?style=flat-square&label=Forks) |
+|  [**Ernie-2API**](https://github.com/lzA6/Ernie-2API) | 💡 文心一言大模型非官方API封装 |  [GitHub Stars](https://img.shields.io/github/stars/lzA6/Ernie-2API?style=flat-square&label=Stars)  [GitHub Forks](https://img.shields.io/github/forks/lzA6/Ernie-2API?style=flat-square&label=Forks) |
+|  [**xinghuo-2api**](https://github.com/lzA6/xinghuo-2api) | ✨ 星火大模型非官方API封装 |  [GitHub Stars](https://img.shields.io/github/stars/lzA6/xinghuo-2api?style=flat-square&label=Stars)  [GitHub Forks](https://img.shields.io/github/forks/lzA6/xinghuo-2api?style=flat-square&label=Forks) |
 
 ---
 
